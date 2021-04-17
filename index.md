@@ -49,12 +49,9 @@
       </div>
     </nav>
   </header>
-
   <section class="apps py-4">
     <div class="container" id="app">
       <div class="title my-3" data-aos="fade-in" data-aos-delay="200">APPS</div>
-      
-
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
           <div class="card text-center">
             <img class="card-img-top" src="./img/snes.png" alt="Snes">
@@ -68,21 +65,17 @@
 		<a href="https://app.mediafire.com/230hvaqlic83l"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>  
 		<a href="https://youtu.be/2YIlCW8UguA"
-		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
-                  Video</a>  
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial Video</a>  
               </div>
             </div>
           </div>
         </div>
-
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="600">
           <div class="card text-center">
             <img class="card-img-top" src="./img/mega-drive.png" alt="SegaGenesis">
             <div class="card-body">
               <h5 class="card-title">Sega Genesis</h5>
-              <p class="card-text">
-
-                Sega Genesis BIOS para o CORE Genesis Plus GX.</p>
+              <p class="card-text">Sega Genesis BIOS para o CORE Genesis Plus GX.</p>
               <div class="row justify-content-around">
                 <a href="https://www.mediafire.com/file/mk50y65owxzebjp/bios_MD.bin/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
@@ -96,7 +89,6 @@
             </div>
           </div>
         </div>
-
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
             <img class="card-img-top" src="./img/dreamcast.png" alt="Dreamcast">
@@ -119,8 +111,7 @@
                 <a href="https://app.mediafire.com/90dcto6zp9e0t"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
                 <a href="https://www.youtube.com/watch?v=IOcIiCj58Xw"
-                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
-                  Video</a>
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial Video</a>
               </div>
             </div>
           </div>

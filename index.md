@@ -95,16 +95,26 @@
 
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/FTP.jpg" alt="FTP">
+            <img class="card-img-top" src="./img/dreamcast.png" alt="FTP">
             <div class="card-body">
-              <h5 class="card-title">Durango FTP</h5>
-              <p class="card-text">The File Transfer Protocol (FTP) is a standard network protocol used for the transfer
-                of computer files between a client and server on a computer network.</p>
+              <h5 class="card-title">Dreamcast</h5>
+              <p class="card-text">Flycast BIOS para Dreamcast baixar os 4 arquivos</p>
               <div class="row justify-content-around">
-                <a href="ms-windows-store://pdp/?productid=9NBQMPB67MN4"
+                <a href="https://www.mediafire.com/file/7wlw4a1ahktd7p8/dc_boot.bin/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
-                  App</a>
-                <a data-bs-toggle="modal" data-bs-target="#durango" class="col-md-5 btn btn-success">Guide</a>
+                  BIOS 1</a>
+                <a href="https://www.mediafire.com/file/5achxoe2gdt7fgm/dc_flash.bin/file"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
+                  BIOS 2</a>
+                <a href="https://www.mediafire.com/file/zkv6nwer0brx365/dc_flash_wb.bin/file"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
+                  BIOS 3</a>
+                <a href="https://www.mediafire.com/file/s9agkyxxzux8cxr/dc_nvmem.bin/file"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
+                  BIOS 4</a>
+                <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
+                  Video</a>
               </div>
             </div>
           </div>

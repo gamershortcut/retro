@@ -66,7 +66,7 @@
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS</a>
 		<a href="https://app.mediafire.com/230hvaqlic83l"
-		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES/a>  
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>  
 		<a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>  

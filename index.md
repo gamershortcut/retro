@@ -118,7 +118,7 @@
                   BIOS 4</a>
                 <a href="https://app.mediafire.com/90dcto6zp9e0t"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
-                <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
+                <a href="https://www.youtube.com/watch?v=IOcIiCj58Xw"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>
               </div>

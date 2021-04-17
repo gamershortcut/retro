@@ -95,7 +95,7 @@
 
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/dreamcast.png" alt="FTP">
+            <img class="card-img-top" src="./img/dreamcast.png" alt="Dreamcast">
             <div class="card-body">
               <h5 class="card-title">Dreamcast</h5>
               <p class="card-text">Flycast BIOS para Dreamcast baixar os 4 arquivos</p>

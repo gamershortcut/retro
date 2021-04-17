@@ -63,14 +63,10 @@
               <h5 class="card-title">Arcade CPS-2</h5>
               <p class="card-text">BIOS CPS-2 tem de baixar todas as partes e por dentro da pasta bios</p>
               <div class="row justify-content-around">
- 
                 <a href="https://www.mediafire.com/file/f6tk4lx0bk32aoc/neocdz.zip/file"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">neocdz.zip</a>
                 <a href="https://www.mediafire.com/file/wivkwjhp4iidwwg/neogeo.zip/file"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">neogeo.zip</a>
-		<a href="https://youtu.be/2YIlCW8UguA"
-		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
-                  Video</a>  
               </div>
             </div>
           </div>
@@ -80,17 +76,12 @@
             <img class="card-img-top" src="./img/arcade-cps2.png" alt="Jogos CPS-2">
             <div class="card-body">
               <h5 class="card-title">Jogos CPS-2</h5>
-              <p class="card-text">
-
-                JOGOS CPS-2 para CORE FINAL BURN 2012a.</p>
+              <p class="card-text">JOGOS CPS-2 para CORE FINAL BURN 2012a.</p>
               <div class="row justify-content-around">
 		<a href="https://app.mediafire.com/vbczz1lfsoc27"
 	 	  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES CPS-1</a> 
 		<a href="https://app.mediafire.com/sygqt46ix0qhy"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES CPS-2</a>  
-                <a href="https://youtu.be/Jn_U1g1jE9A"
-                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
-                  Video</a>
               </div>
             </div>
           </div>

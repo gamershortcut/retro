@@ -144,6 +144,19 @@
             </div>
           </div>
         </div>
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./img/playstation-2.png" alt="Playstation 2">
+            <div class="card-body">
+              <h5 class="card-title">PCSX2</h5>
+              <p class="card-text">PCSX2</p>
+              <div class="row justify-content-around">
+                <a href="https://www.mediafire.com/file/ymebsv39lh801zo/pcsx2.zip/file"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Ir para Download</a>
+              </div>
+            </div>
+          </div>
+        </div>
 <!--
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
@@ -152,7 +165,7 @@
               <h5 class="card-title">PCSX2</h5>
               <p class="card-text">PCSX2</p>
               <div class="row justify-content-around">
-                <a href="https://1drv.ms/u/s!AozE46rmZyIza77CHcrlNt43EWE?e=VwWWkA"
+                <a href="https://www.mediafire.com/file/ymebsv39lh801zo/pcsx2.zip/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Ir para Download</a>
               </div>
             </div>

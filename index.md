@@ -51,6 +51,8 @@
   </header>
   <section class="apps py-4">
     <div class="container" id="app">
+      <div class="row">
+  
       <div class="title my-3" data-aos="fade-in" data-aos-delay="200">APPS</div>
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
           <div class="card text-center">
@@ -143,7 +145,6 @@
           </div>
         </div>
 <!--
-      <div class="row">
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
             <img class="card-img-top" src="./img/playstation-2.png" alt="Playstation 2">
@@ -156,7 +157,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div>	
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
             <img class="card-img-top" src="./img/kodi.jpg" alt="FTP">

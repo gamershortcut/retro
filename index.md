@@ -120,10 +120,10 @@
         </div>
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/arcade-cps2.png" alt="Arcade CPS-2">
+            <img class="card-img-top" src="./img/arcade-cps2.png" alt="Arcade CPS-1 / CPS-2">
             <div class="card-body">
-              <h5 class="card-title">CPS-2</h5>
-              <p class="card-text">Visite a pagina para baixar as BIOS de CPS2</p>
+              <h5 class="card-title">Arcade CPS-1 / CPS-2</h5>
+              <p class="card-text">Visite a pagina para baixar as BIOS de CPS1 e CPS2</p>
               <div class="row justify-content-around">
                 <a href="https://gamershortcut.github.io/retro/final"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Ir para Pagina</a>

@@ -157,7 +157,45 @@
             </div>
           </div>
         </div>
-
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./img/nes.png" alt="Nintendo 8 Bits">
+            <div class="card-body">
+              <h5 class="card-title">Nintendo 8 Bits</h5>
+              <p class="card-text">Games</p>
+              <div class="row justify-content-around">
+                <a href="https://app.mediafire.com/93idci6jd64np"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./img/atari.png" alt="Atari">
+            <div class="card-body">
+              <h5 class="card-title">Atari</h5>
+              <p class="card-text">Games</p>
+              <div class="row justify-content-around">
+                <a href="https://app.mediafire.com/gdlv4fy08480a"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./img/psp.png" alt="PSP">
+            <div class="card-body">
+              <h5 class="card-title">PSP</h5>
+              <p class="card-text">Games</p>
+              <div class="row justify-content-around">
+                <a href="https://app.mediafire.com/722w0pbxgpyxn"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
+              </div>
+            </div>
+          </div>
+        </div>
 <!--
                <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">

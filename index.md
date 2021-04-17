@@ -144,6 +144,19 @@
             </div>
           </div>
         </div>
+        <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
+          <div class="card text-center">
+            <img class="card-img-top" src="./img/n64.png" alt="Nintendo 64">
+            <div class="card-body">
+              <h5 class="card-title">Nintendo 64</h5>
+              <p class="card-text">Games</p>
+              <div class="row justify-content-around">
+                <a href="https://app.mediafire.com/gudtmfhrxacof"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
+              </div>
+            </div>
+          </div>
+        </div>
 
 <!--
                <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">

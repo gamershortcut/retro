@@ -152,7 +152,9 @@
               <p class="card-text">PCSX2</p>
               <div class="row justify-content-around">
                 <a href="https://www.mediafire.com/file/ymebsv39lh801zo/pcsx2.zip/file"
-                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Ir para Download</a>
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">BIOS</a>
+                <a href="https://app.mediafire.com/iu2bcl358widf"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
               </div>
             </div>
           </div>

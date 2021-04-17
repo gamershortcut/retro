@@ -57,7 +57,7 @@
 
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
           <div class="card text-center">
-            <img class="card-img-top" src="/img/snes.png" alt="Retroarch">
+            <img class="card-img-top" src="./img/snes.png" alt="Retroarch">
             <div class="card-body">
               <h5 class="card-title">Super Nintendo</h5>
               <p class="card-text">BIOS SNES9X</p>

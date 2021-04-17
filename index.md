@@ -65,6 +65,8 @@
                 <a href="https://www.mediafire.com/file/ja9j5cbboibubmi/BS-X.bin/file"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS</a>
+		<a href="https://app.mediafire.com/230hvaqlic83l"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES/a>  
 		<a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>  
@@ -85,6 +87,8 @@
                 <a href="https://www.mediafire.com/file/mk50y65owxzebjp/bios_MD.bin/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS</a>
+                <a href="https://app.mediafire.com/vqjvxkmxe4waf"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
                 <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>
@@ -112,6 +116,8 @@
                 <a href="https://www.mediafire.com/file/s9agkyxxzux8cxr/dc_nvmem.bin/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS 4</a>
+                <a href="https://app.mediafire.com/90dcto6zp9e0t"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
                 <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>

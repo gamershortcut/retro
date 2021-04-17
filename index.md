@@ -57,14 +57,17 @@
 
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="400">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/snes.png" alt="Retroarch">
+            <img class="card-img-top" src="./img/snes.png" alt="Snes">
             <div class="card-body">
               <h5 class="card-title">Super Nintendo</h5>
               <p class="card-text">BIOS SNES9X</p>
               <div class="row justify-content-around">
-                <a href="https://www.mediafire.com/file/ja9j5cbboibubmi/BS-X.bin/file">Download
+                <a href="https://www.mediafire.com/file/ja9j5cbboibubmi/BS-X.bin/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS</a>
-                <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY">Tutorial</a>
+		<a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
+                  Video</a>  
               </div>
             </div>
           </div>
@@ -72,18 +75,19 @@
 
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="600">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/pspppGold.jpg" alt="Psppp">
+            <img class="card-img-top" src="./img/mega-drive.png" alt="SegaGenesis">
             <div class="card-body">
-              <h5 class="card-title">PPSPP</h5>
+              <h5 class="card-title">Sega Genesis</h5>
               <p class="card-text">
 
-                PPSSPP is the best, original PSP emulator for XBOX/PC. It runs a lot of games, but depending on
-                the power of your device all may not run at full speed.</p>
+                Sega Genesis BIOS para o CORE Genesis Plus GX.</p>
               <div class="row justify-content-around">
-                <a href="ms-windows-store://pdp/?productid=9PCDQJ6XJ2KN"
+                <a href="https://www.mediafire.com/file/mk50y65owxzebjp/bios_MD.bin/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
-                  App</a>
-                <a data-bs-toggle="modal" data-bs-target="#psppp" class="col-md-5 btn btn-success">Guide</a>
+                  BIOS</a>
+                <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
+                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
+                  Video</a>
               </div>
             </div>
           </div>

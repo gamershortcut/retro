@@ -63,11 +63,26 @@
               <h5 class="card-title">Arcade CPS-2</h5>
               <p class="card-text">BIOS CPS-2 tem de baixar todas as partes e por dentro da pasta bios</p>
               <div class="row justify-content-around">
-                <a href="https://www.mediafire.com/file/ja9j5cbboibubmi/BS-X.bin/file"
-		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
-                  BIOS</a>
-		<a href="https://app.mediafire.com/230hvaqlic83l"
-		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>  
+                <a href="https://www.mediafire.com/file/db0kvw2gsrdvhp5/cchip.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">cchip.zip</a>
+                <a href="https://www.mediafire.com/file/eoowmgdm1rqoxjf/decocass.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">decocass.zip</a>
+                <a href="https://www.mediafire.com/file/b74ht1hdyg1jx23/isgsm.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">isgsm.zip</a>
+                <a href="https://www.mediafire.com/file/j6x00vwwx2rvzng/midssio.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">midssio.zip</a>
+                <a href="https://www.mediafire.com/file/f6tk4lx0bk32aoc/neocdz.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">neocdz.zip</a>
+                <a href="https://www.mediafire.com/file/wivkwjhp4iidwwg/neogeo.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">neogeo.zip</a>
+                <a href="https://www.mediafire.com/file/5r0uz8nu17em6wp/nmk004.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">nmk004.zip</a>
+		<a href="https://www.mediafire.com/file/xht6gt33tb8ix1w/pgm.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">pgm.zip</a>  
+		<a href="https://www.mediafire.com/file/l5r97yocmxuq2oa/skns.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">skns.zip</a>  
+		<a href="https://www.mediafire.com/file/bhq5a51ftmgidz7/ym2608.zip/file"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">ym2608.zip</a>  
 		<a href="https://youtu.be/2YIlCW8UguA"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>  
@@ -75,21 +90,17 @@
             </div>
           </div>
         </div>
-
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="600">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/mega-drive.png" alt="SegaGenesis">
+            <img class="card-img-top" src="./img/arcade-cps2.png" alt="Jogos CPS-2">
             <div class="card-body">
-              <h5 class="card-title">Sega Genesis</h5>
+              <h5 class="card-title">Jogos CPS-2</h5>
               <p class="card-text">
 
-                Sega Genesis BIOS para o CORE Genesis Plus GX.</p>
+                JOGOS CPS-2 para CORE FINAL BURN 2012a.</p>
               <div class="row justify-content-around">
-                <a href="https://www.mediafire.com/file/mk50y65owxzebjp/bios_MD.bin/file"
-                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
-                  BIOS</a>
-                <a href="https://app.mediafire.com/vqjvxkmxe4waf"
-                  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
+		<a href="https://app.mediafire.com/2as13ocjcvjbh"
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>  
                 <a href="https://youtu.be/Jn_U1g1jE9A"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>
@@ -97,7 +108,7 @@
             </div>
           </div>
         </div>
-
+<!--
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
             <img class="card-img-top" src="./img/dreamcast.png" alt="Dreamcast">
@@ -126,7 +137,7 @@
             </div>
           </div>
         </div>
-<!--
+
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
             <img class="card-img-top" src="./img/kodi.jpg" alt="FTP">

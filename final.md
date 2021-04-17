@@ -99,8 +99,10 @@
 
                 JOGOS CPS-2 para CORE FINAL BURN 2012a.</p>
               <div class="row justify-content-around">
+		<a href="https://app.mediafire.com/vbczz1lfsoc27"
+	 	  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES CPS-1</a> 
 		<a href="https://app.mediafire.com/2as13ocjcvjbh"
-		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>  
+		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES CPS-2</a>  
                 <a href="https://youtu.be/Jn_U1g1jE9A"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>

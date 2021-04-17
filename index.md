@@ -57,7 +57,7 @@
       <div class="row">
         <div class="col-md-4 my-3" data-aos="zoom-in" data-aos-duration="800">
           <div class="card text-center">
-            <img class="card-img-top" src="./img/mastersystem.png" alt="Playstation 2">
+            <img class="card-img-top" src="./img/playstation-2.png" alt="Playstation 2">
             <div class="card-body">
               <h5 class="card-title">PCSX2</h5>
               <p class="card-text">PCSX2</p>

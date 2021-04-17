@@ -67,7 +67,7 @@
                   BIOS</a>
 		<a href="https://app.mediafire.com/230hvaqlic83l"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>  
-		<a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
+		<a href="https://youtu.be/2YIlCW8UguA"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>  
               </div>
@@ -89,7 +89,7 @@
                   BIOS</a>
                 <a href="https://app.mediafire.com/vqjvxkmxe4waf"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
-                <a href="https://www.youtube.com/watch?v=zf7oC-QAUmY"
+                <a href="https://youtu.be/Jn_U1g1jE9A"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
                   Video</a>
               </div>

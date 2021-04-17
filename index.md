@@ -146,7 +146,7 @@
       </div>
     </div>
   </section>
-
+<!-- 
   <section class="games py-4">
     <div class="container" id="game">
       <div class="title my-3" data-aos="fade-in" data-aos-delay="200">GAMES</div>
@@ -635,10 +635,10 @@
     </div>
 
   </section>
-
+-->
   <footer class="footer py-3">
     <div class="container">
-      <span>All rights reserved - gamr13 - <script>
+      <span>Gamer Shortcut<script>
           document.write(new Date().getFullYear())
         </script></span>
     </div>

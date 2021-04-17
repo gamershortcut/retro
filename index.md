@@ -1,4 +1,3 @@
-theme: minima
 <html lang="en">
 <head>
   <title>Gamer Shortcut - HELP

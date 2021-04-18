@@ -192,8 +192,6 @@
               <div class="row justify-content-around">
                 <a href="https://app.mediafire.com/722w0pbxgpyxn"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
-		<a href="https://www.mediafire.com/file/f8a56b0u2xcxg56/Simpsons%252C_The_-_Hit_%2526_Run_%2528USA%2529.nkit.iso/file"
-		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">TESTE NAO BAIXAR</a>
               </div>
             </div>
           </div>

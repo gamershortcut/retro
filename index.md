@@ -61,7 +61,7 @@
               <h5 class="card-title">Super Nintendo</h5>
               <p class="card-text">BIOS SNES9X</p>
               <div class="row justify-content-around">
-                <a href="https://www.mediafire.com/file/ja9j5cbboibubmi/BS-X.bin/file"
+                <a href="https://www.mediafire.com/folder/i1t2i9d97c65g/BIOS+SNES9X"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS</a>
 		<a href="https://www.mediafire.com/folder/230hvaqlic83l/ROMS+SNES"

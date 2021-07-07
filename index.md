@@ -82,7 +82,7 @@
                 <a href="https://www.mediafire.com/file/mk50y65owxzebjp/bios_MD.bin/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS</a>
-                <a href="https://app.mediafire.com/vqjvxkmxe4waf"
+                <a href="https://www.mediafire.com/folder/vqjvxkmxe4waf/Roms+Mega+Drive"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
                 <a href="https://youtu.be/Jn_U1g1jE9A"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial
@@ -110,7 +110,7 @@
                 <a href="https://www.mediafire.com/file/s9agkyxxzux8cxr/dc_nvmem.bin/file"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS 4</a>
-                <a href="https://app.mediafire.com/90dcto6zp9e0t"
+                <a href="https://www.mediafire.com/folder/90dcto6zp9e0t/Dreamcast+ISO"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>
                 <a href="https://www.youtube.com/watch?v=IOcIiCj58Xw"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial Video</a>
@@ -138,7 +138,7 @@
               <h5 class="card-title">Master System</h5>
               <p class="card-text">Games</p>
               <div class="row justify-content-around">
-                <a href="https://app.mediafire.com/ck1f3rdbwzh55"
+                <a href="https://www.mediafire.com/folder/ck1f3rdbwzh55/ROMS+Master+System"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Ir para Pasta</a>
               </div>
             </div>
@@ -151,7 +151,7 @@
               <h5 class="card-title">Nintendo 64</h5>
               <p class="card-text">Games</p>
               <div class="row justify-content-around">
-                <a href="https://app.mediafire.com/gudtmfhrxacof"
+                <a href="https://www.mediafire.com/folder/gudtmfhrxacof/ROMS+N64"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
               </div>
             </div>
@@ -164,7 +164,7 @@
               <h5 class="card-title">Nintendo 8 Bits</h5>
               <p class="card-text">Games</p>
               <div class="row justify-content-around">
-                <a href="https://app.mediafire.com/93idci6jd64np"
+                <a href="https://www.mediafire.com/folder/93idci6jd64np/ROMS+NES"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
               </div>
             </div>
@@ -177,7 +177,7 @@
               <h5 class="card-title">Atari</h5>
               <p class="card-text">Games</p>
               <div class="row justify-content-around">
-                <a href="https://app.mediafire.com/gdlv4fy08480a"
+                <a href="https://www.mediafire.com/folder/gdlv4fy08480a/ROMS+ATARI"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
               </div>
             </div>
@@ -190,7 +190,7 @@
               <h5 class="card-title">PSP</h5>
               <p class="card-text">Games</p>
               <div class="row justify-content-around">
-                <a href="https://app.mediafire.com/722w0pbxgpyxn"
+                <a href="https://www.mediafire.com/folder/722w0pbxgpyxn/ROMS+PSP"
                   class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download de jogos</a>
               </div>
             </div>

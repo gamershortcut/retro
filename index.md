@@ -64,7 +64,7 @@
                 <a href="https://www.mediafire.com/file/ja9j5cbboibubmi/BS-X.bin/file"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Download
                   BIOS</a>
-		<a href="https://app.mediafire.com/230hvaqlic83l"
+		<a href="https://www.mediafire.com/folder/230hvaqlic83l/ROMS+SNES"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES</a>  
 		<a href="https://youtu.be/2YIlCW8UguA"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">Tutorial Video</a>  

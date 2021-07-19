@@ -80,7 +80,7 @@
               <div class="row justify-content-around">
 		<a href="https://app.mediafire.com/vbczz1lfsoc27"
 	 	  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES CPS-1</a> 
-		<a href="https://app.mediafire.com/sygqt46ix0qhy"
+		<a href="https://www.mediafire.com/folder/sygqt46ix0qhy/ROMS_CPS2"
 		  class="col-md-5 mb-md-0 mb-3 btn btn-secondary">GAMES CPS-2</a>  
               </div>
             </div>
